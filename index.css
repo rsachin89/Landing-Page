@@ -42,13 +42,22 @@ p{
 .grid{
     background-image: linear-gradient(to right, red , yellow);
     height: 10rem;
-    width: 100rem;
-    overflow: hidden;
+    width: 81rem;
 }
 .rk{
     color: white;
     position: absolute;
     margin-top: 5%;
     font-size: 5rem;
-    margin-left: 11%;
+    margin-left: 12%;
+}
+.com{
+    height: 12rem;
+    width: 12rem;
+    margin-left: 50%;
+}
+.ft{
+    background-image: linear-gradient(to right, rgb(240, 190, 120) , yellow);
+    height: 10rem;
+    width: 81rem;
 }
