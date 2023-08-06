@@ -3,7 +3,7 @@
     margin: 0%;
 }
 nav{
-    background-color: black;
+    background-color: rgb(127, 112, 112);
     color: white;
     position: relative;
 }
@@ -24,7 +24,7 @@ img{
 }
 p{
     margin-left: 10px;
-    font-size: 10px;
+    font-size: 12px;
     margin-top: -20px;
 }
 .first{
@@ -36,6 +36,19 @@ p{
 }
 .photo{
     margin-top: 10px;
-    height: 20rem;
+    height: 19rem;
     width: 25rem;
+}
+.grid{
+    background-image: linear-gradient(to right, red , yellow);
+    height: 10rem;
+    width: 100rem;
+    overflow: hidden;
+}
+.rk{
+    color: white;
+    position: absolute;
+    margin-top: 5%;
+    font-size: 5rem;
+    margin-left: 11%;
 }
